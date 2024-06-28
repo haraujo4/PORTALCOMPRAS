@@ -1,12 +1,292 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49700519-1CE9-4E6B-BD72-370D5A238A42}|Portal.Tests\\Portal.Tests.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.tests\\unitarios\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49700519-1CE9-4E6B-BD72-370D5A238A42}|Portal.Tests\\Portal.Tests.csproj|solutionrelative:portal.tests\\unitarios\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49700519-1CE9-4E6B-BD72-370D5A238A42}|Portal.Tests\\Portal.Tests.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.tests\\unitarios\\cartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49700519-1CE9-4E6B-BD72-370D5A238A42}|Portal.Tests\\Portal.Tests.csproj|solutionrelative:portal.tests\\unitarios\\cartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31B3B07-7440-4A93-862E-512F0D5F2F83}|Portal.Infra\\Portal.Infra.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.infra\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31B3B07-7440-4A93-862E-512F0D5F2F83}|Portal.Infra\\Portal.Infra.csproj|solutionrelative:portal.infra\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\services\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\services\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\services\\interface\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\helpers\\passwordhashhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\helpers\\passwordhashhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\helpers\\jwthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\helpers\\jwthelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\helpers\\emailhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\helpers\\emailhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|c:\\projetos\\pessoal\\portalcompras\\portal.application\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9159EE8-DDDF-4213-8604-45069FBF88DB}|Portal.Application\\Portal.Application.csproj|solutionrelative:portal.application\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|c:\\projetos\\pessoal\\portalcompras\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|c:\\projetos\\pessoal\\portalcompras\\webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|c:\\projetos\\pessoal\\portalcompras\\webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|c:\\projetos\\pessoal\\portalcompras\\webapi\\controllers\\authenticatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA372475-014B-4EA2-BC87-20D89E680F8F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authenticatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Tests\\Unitarios\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "Portal.Tests\\Unitarios\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Tests\\Unitarios\\ProductServiceTests.cs",
+              "RelativeToolTip": "Portal.Tests\\Unitarios\\ProductServiceTests.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:45:27.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Tests\\Unitarios\\CartServiceTests.cs",
+              "RelativeDocumentMoniker": "Portal.Tests\\Unitarios\\CartServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Tests\\Unitarios\\CartServiceTests.cs",
+              "RelativeToolTip": "Portal.Tests\\Unitarios\\CartServiceTests.cs",
+              "ViewState": "AQIAAGsBAAAAAAAAAAAiwGwBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:44:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Infra\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Portal.Infra\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Infra\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Portal.Infra\\Repository\\CartRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:44:34.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Portal.Application\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAADwv2cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Services\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\Services\\Interface\\ICustomerService.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Services\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Portal.Application\\Services\\Interface\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Services\\Interface\\ICartService.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\Services\\Interface\\ICartService.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Services\\Interface\\ICartService.cs",
+              "RelativeToolTip": "Portal.Application\\Services\\Interface\\ICartService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:43.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHashHelpers.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Helpers\\PasswordHashHelpers.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\Helpers\\PasswordHashHelpers.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Helpers\\PasswordHashHelpers.cs",
+              "RelativeToolTip": "Portal.Application\\Helpers\\PasswordHashHelpers.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JWTHelpers.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Helpers\\JWTHelpers.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\Helpers\\JWTHelpers.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Helpers\\JWTHelpers.cs",
+              "RelativeToolTip": "Portal.Application\\Helpers\\JWTHelpers.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailHelpers.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Helpers\\EmailHelpers.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\Helpers\\EmailHelpers.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\Helpers\\EmailHelpers.cs",
+              "RelativeToolTip": "Portal.Application\\Helpers\\EmailHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:14.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "Portal.Application\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:12.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "Portal.Application\\DTO\\CustomerDTO.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:10.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\DTO\\CartDTO.cs",
+              "RelativeDocumentMoniker": "Portal.Application\\DTO\\CartDTO.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\Portal.Application\\DTO\\CartDTO.cs",
+              "RelativeToolTip": "Portal.Application\\DTO\\CartDTO.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:43:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:42:58.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:42:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:42:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticatorController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\AuthenticatorController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthenticatorController.cs",
+              "ToolTip": "C:\\Projetos\\Pessoal\\PORTALCOMPRAS\\WebApi\\Controllers\\AuthenticatorController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthenticatorController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:42:46.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -18,7 +18,6 @@ namespace Portal.Tests.Unitarios
 
         public ProductServiceTests()
         {
-            // Configuração dos mocks e AutoMapper
             _mockProductRepository = new Mock<IProductRepository>();
         }
 

@@ -85,8 +85,6 @@ namespace Portal.Application.Services
             await _customerRepository.DeleteAsync(id);
         }
 
-        //logar
-
         public async Task<string> LoginAsync(LoginDTO loginDto)
         {
             var customer = await _customerRepository.GetByEmailAsync(loginDto.Email);
@@ -99,14 +97,10 @@ namespace Portal.Application.Services
             return token;
         }
 
-        //recuperar senha
-
         public async Task<string> RecoverPasswordAsync(string email)
         {
             var customer = await _customerRepository.GetByEmailAsync(email);
             if (customer == null) throw new Exception("Invalid email");
-
-            //enviar email com nova senha
             var newPassword = PasswordHashHelpers.GenerateRandomPassword();
             customer.PasswordHash = PasswordHashHelpers.HashPassword(newPassword);
             await _customerRepository.UpdateAsync(customer);

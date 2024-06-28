@@ -23,7 +23,7 @@ namespace Portal.Infra.Repository
         {
             return await _dbContext.Carts
                 .Where(c => c.CustomerId == id)
-                .Include(c => c.Items) // Incluir os itens do carrinho
+                .Include(c => c.Items)
                 .ToListAsync();
         }
 
@@ -31,7 +31,7 @@ namespace Portal.Infra.Repository
         {
             return await _dbContext.Carts
                 .Where(c => c.CustomerId == customerId)
-                .Include(c => c.Items) // Incluir os itens do carrinho
+                .Include(c => c.Items) 
                 .Skip((pageNumber - 1) * pageSize)
                 .Take(pageSize)
                 .ToListAsync();

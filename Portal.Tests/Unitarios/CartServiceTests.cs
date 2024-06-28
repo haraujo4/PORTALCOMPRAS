@@ -222,7 +222,7 @@ namespace Portal.Tests.Unitarios
             var addedItem = cartEntity.Items.First();
             Assert.Equal(productId, addedItem.ProductId);
             Assert.Equal(2, addedItem.Quantity);
-            Assert.Equal(100, addedItem.Price); // 2 * 50 (product price)
+            Assert.Equal(100, addedItem.Price);
         }
         [Fact]
         public async Task AddCartItemAsync_ProductNotFound_ThrowsException()
@@ -236,7 +236,7 @@ namespace Portal.Tests.Unitarios
     };
 
             _mockProductRepository.Setup(repo => repo.GetByIdAsync(productId))
-                                  .ReturnsAsync((Product)null); // Product not found
+                                  .ReturnsAsync((Product)null);
 
             var cartService = new CartService(
                 _mockCartRepository.Object,
@@ -280,7 +280,7 @@ namespace Portal.Tests.Unitarios
             // Assert
             var updatedItem = cartEntity.Items.First();
             Assert.Equal(3, updatedItem.Quantity);
-            Assert.Equal(300, updatedItem.Price); // 3 * 100 (previous price)
+            Assert.Equal(300, updatedItem.Price); 
         }
 
         [Fact]
@@ -292,7 +292,7 @@ namespace Portal.Tests.Unitarios
             var updateCartItemDto = new UpdateCartItemDTO { Quantity = 3 };
 
             _mockCartRepository.Setup(repo => repo.GetByIdAsync(cartId))
-                               .ReturnsAsync(new List<Cart>()); // Cart not found
+                               .ReturnsAsync(new List<Cart>());
 
             var cartService = new CartService(
                 _mockCartRepository.Object,
@@ -344,7 +344,7 @@ namespace Portal.Tests.Unitarios
             var productId = Guid.NewGuid();
 
             _mockCartRepository.Setup(repo => repo.GetByIdAsync(cartId))
-                               .ReturnsAsync(new List<Cart>()); // Cart not found
+                               .ReturnsAsync(new List<Cart>());
 
             var cartService = new CartService(
                 _mockCartRepository.Object,
@@ -362,7 +362,7 @@ namespace Portal.Tests.Unitarios
             var cartId = Guid.NewGuid();
 
             _mockCartRepository.Setup(repo => repo.GetByIdAsync(cartId))
-                               .ReturnsAsync(new List<Cart>()); // Cart not found
+                               .ReturnsAsync(new List<Cart>());
 
             var cartService = new CartService(
                 _mockCartRepository.Object,
