@@ -1,0 +1,15 @@
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\bin\Debug\net8.0\Portal.Application.deps.json
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\bin\Debug\net8.0\Portal.Application.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\bin\Debug\net8.0\Portal.Application.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\bin\Debug\net8.0\Portal.Domain.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\bin\Debug\net8.0\Portal.Domain.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.csproj.AssemblyReference.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.AssemblyInfo.cs
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.A.4AC09C82.Up2Date
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\refint\Portal.Application.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\Portal.Application.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Application\obj\Debug\net8.0\ref\Portal.Application.dll

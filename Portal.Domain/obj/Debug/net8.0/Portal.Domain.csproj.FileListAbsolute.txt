@@ -1,0 +1,11 @@
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\bin\Debug\net8.0\Portal.Domain.deps.json
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\bin\Debug\net8.0\Portal.Domain.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\bin\Debug\net8.0\Portal.Domain.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\Portal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\Portal.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\Portal.Domain.AssemblyInfo.cs
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\Portal.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\Portal.Domain.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\refint\Portal.Domain.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\Portal.Domain.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Domain\obj\Debug\net8.0\ref\Portal.Domain.dll

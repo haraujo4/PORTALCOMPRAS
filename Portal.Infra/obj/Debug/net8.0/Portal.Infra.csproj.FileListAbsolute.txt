@@ -1,0 +1,17 @@
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\bin\Debug\net8.0\Portal.Infra.deps.json
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\bin\Debug\net8.0\Portal.Infra.runtimeconfig.json
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\bin\Debug\net8.0\Portal.Infra.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\bin\Debug\net8.0\Portal.Infra.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\bin\Debug\net8.0\Portal.Domain.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\bin\Debug\net8.0\Portal.Domain.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.csproj.AssemblyReference.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.AssemblyInfo.cs
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.I.614CAB5C.Up2Date
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\refint\Portal.Infra.dll
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.pdb
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\Portal.Infra.genruntimeconfig.cache
+C:\Projetos\Pessoal\PORTALCOMPRAS\Portal.Infra\obj\Debug\net8.0\ref\Portal.Infra.dll
